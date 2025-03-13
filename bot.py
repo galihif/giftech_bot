@@ -5,7 +5,7 @@ TOKEN = "7956930943:AAHl3lCIJ-IiVC2vxhJNeco1YMwNFeW4TTc"
 
 # Fungsi untuk menangani perintah /start
 async def start(update: Update, context: CallbackContext):
-    await update.message.reply_text("Halo! Sayangku Cintaku")
+    await update.message.reply_text("Halo! Sayangku Bzirrrr")
 
 # Fungsi untuk menangani pesan teks
 async def echo(update: Update, context: CallbackContext):
